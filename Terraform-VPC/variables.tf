@@ -7,3 +7,4 @@ variable "subnet_cidr" {
   description = "subnet cidrs"
   type = list(string)
 }
+
